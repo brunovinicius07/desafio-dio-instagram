@@ -2,7 +2,7 @@
 
 A proposta principal desse repositório é praticar HTML e CSS.
 
-## 🎯 Objetvo
+## 🎯 Objetivo
 - Entender a interação do flexbox com CSS.
 - Clonar a página de login do Instagram utilizando flexbox.
 - Tornar uma página responsiva.
