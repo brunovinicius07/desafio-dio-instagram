@@ -1,4 +1,4 @@
-# 🚀 Proposta 🚀
+# 🚀 Proposta 
 
 A proposta principal desse repositório é praticar HTML e CSS.
 
